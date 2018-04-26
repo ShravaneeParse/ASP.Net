@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication8", "WebApplication8\WebApplication8.csproj", "{209345B0-09C4-4EED-B033-193DC6144026}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PublishScripts", "PublishScripts", "{FC8B49A7-5DB4-449B-AC41-0390A62CB029}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{DEE451DC-0B63-4300-A64C-75406ABBBF96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{422F8CB4-BBF4-4AE0-A006-1C12BA8A9DEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{209345B0-09C4-4EED-B033-193DC6144026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209345B0-09C4-4EED-B033-193DC6144026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209345B0-09C4-4EED-B033-193DC6144026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209345B0-09C4-4EED-B033-193DC6144026}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DEE451DC-0B63-4300-A64C-75406ABBBF96} = {FC8B49A7-5DB4-449B-AC41-0390A62CB029}
+		{422F8CB4-BBF4-4AE0-A006-1C12BA8A9DEA} = {FC8B49A7-5DB4-449B-AC41-0390A62CB029}
+	EndGlobalSection
+EndGlobal
